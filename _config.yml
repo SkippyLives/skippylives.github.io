@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SkippyLives
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Always trying to learn new things and learn old things in new ways. 
+  This is my place to collect my thoughts and share what I've done.
+  SkippyLives is a proud member of CodeTherapy and of PuffingtonPress. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://skippylives.puffingtonpress.com" # the base hostname & protocol for your site
+twitter_username: puffingtonpress
+github_username:  skippylives
+
+# Build settings
+markdown: kramdown
