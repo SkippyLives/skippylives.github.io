@@ -13,14 +13,20 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
+$col-spacing-unit: 15px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
+$text-color:       #444; //#111;
+$background-color: #9EBA82; //#A0B58B; //#fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color:       #666;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$green-color:       #9EBA82;
+$green-color-light: lighten($green-color, 10%);
+$green-color-dark:  darken($green-color, 30%);
+
 
 // Width of the content area
 $content-width:    800px;

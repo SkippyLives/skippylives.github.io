@@ -19,3 +19,10 @@ github_username:  skippylives
 
 # Build settings
 markdown: kramdown
+
+excerpt_separator: "<!--more-->"
+column_separator: "<!--column-->"
+item_separator: "<!--item-->"
+
+collections:
+- projects
