@@ -22,7 +22,8 @@ markdown: kramdown
 
 excerpt_separator: "<!--more-->"
 column_separator: "<!--column-->"
-item_separator: "<!--item-->"
+item_separator: "\n"
 
 collections:
 - projects
+- resources

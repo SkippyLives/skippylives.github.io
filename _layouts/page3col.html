@@ -32,7 +32,7 @@ layout: default
     <div class="project-col-wrapper">
         <div class="project-col project-3col">
             <ul class="social-media-list">
-                <li>{{ project.title }}</li>
+                <li><a href={{ project.alink }}>{{ project.title }}</a> {{ project.desc }}</li>
             </ul>
         </div>
       {% assign contentArray = project.content | markdownify | split: site.column_separator %}

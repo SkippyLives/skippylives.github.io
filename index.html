@@ -1,5 +1,6 @@
 ---
 layout: default
+displayCount: 4
 ---
 
 <div class="home">
@@ -14,6 +15,11 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+          {% if forloop.index <= page.displayCount %}
+            <div class="post-content" itemprop="articleBody">
+    {{ post.content }}
+  </div>
+          {% endif %}
       </li>
     {% endfor %}
   </ul>
