@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Programmer. Husband. Father. Learner.
+Programmer, runner, gamer, supporter of your dreams. you got this!
