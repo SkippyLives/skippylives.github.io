@@ -6,35 +6,33 @@ permalink: /now/
 
 What is a now page? It is kind of a list of my current goals, what I am focused on, and where I am at. A better description probably is at [nownownow.com][now] though.
 
-For me it is the things I am doing (or should be doing) all in one place.  More for me to see and be able to keep focused on the things that matter. But isn't really a task list as I don't really check them off as "complete".  At least not how I am doing it anyways. Though I imagine some things will just evolve into other things.
+For me it is the things I am doing (or should be doing) all in one place.  More for me to see and be able to keep focused on the things that matter. 
 
 
-
-  Last updated: March 19, 2016
+  Last updated: March 07, 2020
 
 
 ### Family/Home
 
-  * Getting ready for kids' tournament season
-  * Working on a lot of renovations throughout the spring/summer
+  * Getting basement organized
   * I am continually reducing the amount of stuff I have
+  * taking more vacation time to go places (on hold)
 
 ### Health
 
-  * I am running 3-4 times a week
-  * Going to the gym 1-2 times a week
-  * Doing burpees everyday - ugh
-  * Eating breakfast and making coffee before leaving house everyday
+  * working out 6 days a week. 4 running 2 body weight/light weight.
+  * losing weight and reducing fat %. almost to were i want to be. 
+  * Marine Corps 17.75K race end of month.
 
 ### Reading/Listening/Watching
 
-  * listening to Song of Fire and Ice in the car to and from work
-  * Watching Game of Thrones
+  * reading Speaker of the Dead
+  * Watching Hockey (MN Wild)
 
 ### Hobby
 
-  * Learning Unity3d, Node, and Go. among others
-  * Playing with Raspberry PI again
+  * Writing an RPG. 
+  * getting web site set up and starting this blog as well
 
 
 [now]: http://nownownow.com/about
